@@ -68,14 +68,14 @@ The website highlights my professional journey, projects, certifications, and te
       GitHub Pages – Hosting platform
 
   📂 Project Structure
-  ├── index.html
-  ├── css/
-  │   └── styles.css
-  ├── js/
-  │   └── main.js
-  ├── assets/
-  │   └── images/
-  └── README.md
+                      ├── index.html
+                      ├── css/
+                      │   └── styles.css
+                      ├── js/
+                      │   └── main.js
+                      ├── assets/
+                      │   └── images/
+                      └── README.md
   
 ## 🌍 Deployment
 

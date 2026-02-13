@@ -67,15 +67,16 @@ The website highlights my professional journey, projects, certifications, and te
       
       GitHub Pages – Hosting platform
 
-  📂 Project Structure
-                      ├── index.html
-                      ├── css/
-                      │   └── styles.css
-                      ├── js/
-                      │   └── main.js
-                      ├── assets/
-                      │   └── images/
-                      └── README.md
+## 📂 Project Structure
+  
+          ├── index.html
+          ├── css/
+          │   └── styles.css
+          ├── js/
+          │   └── main.js
+          ├── assets/
+          │   └── images/
+          └── README.md
   
 ## 🌍 Deployment
 
@@ -100,11 +101,11 @@ A structured presentation of data-driven work
 
 If you’d like to collaborate, hire, or connect:
 
-🌐 Portfolio: https://KenMwangi1.github.io/
-
-💼 LinkedIn: https://www.linkedin.com/in/ken-mwangi-81478028/
-
-📧 Email: (mwangiken88@gmail.com)
+    🌐 Portfolio: https://KenMwangi1.github.io/
+    
+    💼 LinkedIn: https://www.linkedin.com/in/ken-mwangi-81478028/
+    
+    📧 Email: (mwangiken88@gmail.com)
 
 ## ⭐ Support
 
